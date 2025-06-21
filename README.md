@@ -53,5 +53,5 @@ The app uses **semantic search** to recommend books based on user queries. It al
 
 
 
-For The Love of Books!
+For The Love of Books by Shrivatsasingh!
 
